@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771855946059",
+    "project_id": "call-phone-19685",
+    "storage_bucket": "call-phone-19685.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771855946059:android:9f7a09be90812f0c4218ce",
+        "android_client_info": {
+          "package_name": "com.example.callphone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhq5xABqFLWs1z19AAJXRCOnidVfVLp7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
